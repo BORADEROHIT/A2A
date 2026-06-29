@@ -1,0 +1,51 @@
+﻿Product_ID,Product_Name,Brand,Product_Type,Product_Description,Unit_Price,Quantity_in_Stock,Average_Rating
+P001,Wireless Mouse,LogiTech,Electronics,Ergonomic mouse with silent click technology and long battery life.,29.99,150,4.5
+P002,Ceramic Coffee Mug,Mornings Co.,Home Goods,"Hand-painted ceramic mug, 12 oz, perfect for coffee or tea.",9.5,300,4.8
+P003,Slim Fit T-Shirt,Urban Threads,Apparel,"100% organic cotton t-shirt, breathable and soft to the touch.",24.99,500,4.2
+P004,Smart LED Bulb,AuraGlow,Electronics,"Wi-Fi enabled bulb with millions of colors, controllable via app.",15.99,220,4.7
+P005,Stainless Steel Water Bottle,HydroFlask,Home Goods,"Double-walled, vacuum-insulated bottle keeps drinks cold for 24 hours.",22,180,4.9
+P006,Bluetooth Speaker,SoundCore,Electronics,Portable waterproof speaker with powerful bass and 10-hour playtime.,65,90,4.6
+P007,Scented Candle,Wick & Wax,Home Goods,"Soy wax candle with a calming lavender scent, 40-hour burn time.",14.99,250,4.4
+P008,Hooded Sweatshirt,Cozywear,Apparel,Heavyweight fleece hoodie with a kangaroo pocket and drawstring hood.,49.99,120,4.5
+P009,HD Webcam 1080p,StreamCam,Electronics,Full HD webcam with auto-focus and built-in stereo microphone.,79.99,80,4.3
+P010,Memory Foam Pillow,DreamCloud,Home Goods,"Contoured pillow for neck support, ideal for side and back sleepers.",35,100,4.9
+P011,Denim Jeans,Blueprint,Apparel,"Classic straight-leg denim jeans, distressed wash, available in multiple sizes.",59.99,190,4.1
+P012,Portable Charger 10000mAh,PowerLink,Electronics,High-capacity power bank with fast charging ports for smartphones and tablets.,39.99,280,4.6
+P013,Cast Iron Skillet,Rustic Kitchen,Home Goods,"Pre-seasoned 10-inch skillet, perfect for searing and baking.",45,60,4.7
+P014,Running Shorts,ActiveWear,Apparel,"Lightweight, moisture-wicking shorts with an elastic waistband and inner lining.",29.99,400,4.3
+P015,Wireless Keyboard,KeyFusion,Electronics,Full-size keyboard with backlit keys and multi-device Bluetooth connectivity.,55.5,110,4.4
+P016,Silicone Spatula Set,Chef's Choice,Home Goods,"Set of 3 heat-resistant spatulas, BPA-free and dishwasher safe.",18.75,350,4.8
+P017,Leather Wallet,Artisan Craft,Apparel,Genuine leather bi-fold wallet with multiple card slots and an ID window.,42,170,4.9
+P018,Gaming Headset,AetherSound,Electronics,7.1 surround sound headset with a noise-canceling microphone and RGB lighting.,99.99,75,4.5
+P019,Weighted Blanket,CalmSphere,Home Goods,15 lbs weighted blanket for stress relief and better sleep quality.,89,95,4.6
+P020,Leather Belt,Formal Fit,Apparel,Classic genuine leather belt with a polished metal buckle.,32.5,210,4.2
+P021,Noise-Canceling Headphones,Acoustic,Electronics,Premium headphones with active noise cancellation and 30-hour battery life.,149.99,60,4.8
+P022,Espresso Machine,Barista Pro,Home Goods,Compact single-serve espresso machine with a frother.,180,40,4.7
+P023,Winter Jacket,Summit Gear,Apparel,Waterproof and windproof jacket with thermal insulation for extreme cold.,120,85,4.5
+P024,USB-C Hub,Connecta,Electronics,"7-in-1 hub with HDMI, USB 3.0, and SD card slots for laptops.",49.99,130,4.6
+P025,Glass Food Containers,FreshLock,Home Goods,"Set of 5 airtight glass containers, microwave and oven safe.",28,200,4.8
+P026,Casual Sneakers,Stride,Apparel,"Lightweight sneakers with a cushioned sole, perfect for daily wear.",69.99,150,4.4
+P027,Tablet Stylus Pen,PenFlow,Electronics,Universal stylus with palm rejection and pressure sensitivity for drawing.,39.99,100,4.3
+P028,Digital Kitchen Scale,Precision Prep,Home Goods,"High-accuracy digital scale with a tare function, measures up to 5kg.",20.5,270,4.9
+P029,Wool Scarf,Winter Warmth,Apparel,"Soft merino wool scarf, long and cozy for cold weather.",25,320,4.7
+P030,4K Smart TV,Visionary,Electronics,55-inch 4K UHD TV with built-in streaming apps and voice control.,499,30,4.8
+P031,Area Rug,Floor Decor,Home Goods,"Geometric pattern area rug, stain-resistant and easy to clean.",75,55,4.6
+P032,Jogging Pants,SportFlow,Apparel,Tapered-fit jogging pants with zipper pockets and breathable fabric.,34.99,180,4.5
+P033,Portable Monitor,ViewMate,Electronics,15.6-inch portable monitor with USB-C and HDMI connectivity.,179.99,70,4.4
+P034,Bedding Set,Lullaby,Home Goods,"Queen-size duvet cover and pillowcase set, made from Egyptian cotton.",85,110,4.9
+P035,Crewneck Sweater,Knitwear Co.,Apparel,"Classic cotton crewneck sweater, perfect for layering.",45,230,4.3
+P036,Gaming Mousepad,SpeedGlide,Electronics,Large gaming surface with stitched edges and a non-slip rubber base.,19.99,250,4.7
+P037,Cutting Board Set,WoodCraft,Home Goods,Set of 3 bamboo cutting boards with grooves to catch juices.,27.5,140,4.8
+P038,Dress Shirt,FormaWear,Apparel,"Wrinkle-free dress shirt with a classic collar, available in various colors.",49.99,160,4.6
+P039,Mechanical Keyboard,MechKeys,Electronics,RGB mechanical keyboard with tactile brown switches.,119,50,4.9
+P040,Blender,BlendWell,Home Goods,High-speed blender with a 6-blade system for smoothies and soups.,75,90,4.7
+P041,Puffer Vest,Outdoorsy,Apparel,Lightweight puffer vest with down insulation and a stand-up collar.,65,130,4.5
+P042,External SSD 1TB,FlashDrive,Electronics,Ultra-fast portable SSD with USB 3.2 connectivity.,109.99,100,4.8
+P043,Dinner Plate Set,Tableware,Home Goods,"Set of 4 porcelain dinner plates, dishwasher and microwave safe.",35,110,4.6
+P044,Yoga Leggings,FlexiFit,Apparel,High-waisted leggings with four-way stretch fabric and a hidden pocket.,55,200,4.9
+P045,Webcam Cover,PrivacySafe,Electronics,"Simple sliding webcam cover for laptops, in a pack of 3.",5.99,500,4.5
+P046,Towel Set,SoftTouch,Home Goods,"Luxury bath towel set, 100% Turkish cotton, highly absorbent.",39.99,170,4.7
+P047,Polo Shirt,Executive,Apparel,Classic polo shirt with a three-button placket and embroidered logo.,35.5,220,4.4
+P048,Gaming Monitor,GigaDisplay,Electronics,27-inch 144Hz curved gaming monitor with a fast refresh rate.,299,40,4.8
+P049,Hand Mixer,MixMaster,Home Goods,5-speed electric hand mixer with stainless steel beaters.,29.99,150,4.5
+P050,Sports Bra,ActiveWear,Apparel,High-support sports bra with moisture-wicking fabric and padded cups.,39.99,250,4.7
